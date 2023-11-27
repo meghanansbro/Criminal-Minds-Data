@@ -1,0 +1,55 @@
+Unique Idenitifer,Length_of_Conversation_in_Seconds,Relation_to_the_Case,Number_of_Humorous_Statements,Audience_Emotion,Character_Reaction,Number_of_Stats_from_Reid
+Conversation 1 (Reid),82,3,1,1,1,2
+Conversation 2 (BAU),65,1,1,1,2,0
+Conversation 3 (BAU),60,1,0,1,1,2
+Conversation 4 (JJ & Blake),37,1,1,2,2,0
+Conversation 5 (Hotch & Morgan),20,1,0,0,1,0
+Conversation 6 (Rossi & Reid),75,1,3,1,2,0
+Conversation 7 (BAU),67,2,2,1,1,2
+"Conversation 8 (Reid, Hotch) ",58,1,0,2,2,0
+Conversation (BAU),42,1,0,1,1,0
+Conversation (BAU),41,1,0,1,1,0
+Conversation (JJ & Morgan),34,2,0,0,0,0
+Conversation (JJ & Morgan),37,3,4,0,0,0
+Conversation (JJ & 911),10,1,0,1,2,0
+Conversation (Reid & Blake),90,2,3,0,0,0
+Conversation (Hotch),5,1,0,1,2,0
+Conversation (BAU),35,1,1,1,1,1
+Conversation (BAU),52,1,1,0,1,0
+Conversation (BAU),43,1,1,0,1,0
+Conversation (BAU),62,1,1,1,1,0
+Conversation (BAU),31,1,0,2,2,0
+Conversation (BAU),31,3,3,0,0,0
+Conversation (Reid),19,3,0,0,2,0
+Conversation (Reid),20,3,0,1,2,0
+Conversation 1 - hotch,202,1,0,2,1,0
+Conversation 2 - hotch bau,63,1,0,0,0,1
+Conversation 3 - morgan jj,200,1,0,2,2,0
+Conversation 4 - hotch & callahan,33,1,1,0,1,0
+Conversation - hotch and garcia,22,1,0,0,0,0
+Conversation - rossi reid,43,1,0,0,1,1
+Conversation - bau,72,1,2,0,1,1
+Conversation - hotch ,19,1,0,0,0,0
+Conversation - rossi jj,40,1,0,1,2,0
+Conversation - hotch ,65,1,0,1,1,0
+Conversation - bau,100,1,1,0,1,2
+Conversation - hotch rossi,31,1,1,0,0,0
+Conversation - hotch ,82,1,0,1,2,0
+Conversation - garcia,11,2,1,1,2,0
+Conversation - bau,23,2,0,1,2,0
+Conversation - bau,6,1,1,1,2,0
+Conversation - bau,95,1,2,0,1,3
+Conversation - hotch,6,2,0,0,1,0
+Conversation - hotch,54,2,2,0,1,0
+Conversation - garcia hotch,95,1,1,1,2,0
+Conversation - hotch unsub,28,1,0,2,2,0
+Conversation - hotch,222,2,0,1,2,0
+Conversation - jj,7,2,0,2,2,0
+Conversation - morgan,8,2,0,2,2,0
+Conversation - hotch,20,2,0,2,2,0
+Conversation - hotch unsub,30,2,0,1,1,0
+Conversation - bau,5,1,0,0,2,0
+Conversation - hotch unsub,15,1,0,2,2,0
+Conversation - morgan jj,23,1,0,1,2,0
+Conversation - bau,10,1,0,1,2,0
+Conversation - hotch,51,1,0,1,2,0
